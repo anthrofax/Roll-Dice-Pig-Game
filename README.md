@@ -1,4 +1,4 @@
-# Roll-Dice-Pig-Game
+# Roll-Dice-Pig-Game 🎲
 
 Tutorial Game :
 1. Tekan Roll Dice untuk menambah skor 
